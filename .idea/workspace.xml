@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java_image_server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0859027-1aeb-4b7d-a1a7-a33e7c9beaa1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_image_server" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/App/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\App\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZC37UcOeYIXSmOBYZgfEKITaDj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.24035609" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\宋娟\IdeaProjects\项目\java_image_server\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ImageDao">
+    <configuration name="ImageDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.ImageDao" />
+      <module name="java_image_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestGson" />
+      <module name="java_image_server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImageDao" />
+        <item itemvalue="Application.TestGson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0859027-1aeb-4b7d-a1a7-a33e7c9beaa1" name="默认更改列表" comment="" />
+      <created>1584329081977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584329081977</updated>
+      <workItem from="1584329088033" duration="4033000" />
+      <workItem from="1584351126399" duration="2693000" />
+      <workItem from="1584425255017" duration="14691000" />
+      <workItem from="1584494120651" duration="15461000" />
+      <workItem from="1584515926633" duration="12852000" />
+      <workItem from="1584542117620" duration="2209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="114" width="471" height="580" key="#com.intellij.ide.util.MemberChooser" timestamp="1584508843649">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="842" y="114" width="471" height="580" key="#com.intellij.ide.util.MemberChooser/0.0.1418.798@0.0.1418.798" timestamp="1584508843649" />
+    <state x="807" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584429226531">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="807" y="210" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1418.798@0.0.1418.798" timestamp="1584429226531" />
+    <state x="884" y="260" width="325" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584543520146">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="884" y="260" width="325" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1418.798@0.0.1418.798" timestamp="1584543520146" />
+    <state x="764" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584520614420">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="764" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1418.798@0.0.1418.798" timestamp="1584520614420" />
+    <state x="857" y="181" key="FileChooserDialogImpl" timestamp="1584516304933">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="857" y="181" key="FileChooserDialogImpl/0.0.1418.798@0.0.1418.798" timestamp="1584516304933" />
+    <state width="1374" height="278" key="GridCell.Tab.0.bottom" timestamp="1584544108276">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="278" key="GridCell.Tab.0.bottom/0.0.1418.798@0.0.1418.798" timestamp="1584544108276" />
+    <state width="1374" height="278" key="GridCell.Tab.0.center" timestamp="1584544108276">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="278" key="GridCell.Tab.0.center/0.0.1418.798@0.0.1418.798" timestamp="1584544108276" />
+    <state width="1374" height="278" key="GridCell.Tab.0.left" timestamp="1584544108275">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="278" key="GridCell.Tab.0.left/0.0.1418.798@0.0.1418.798" timestamp="1584544108275" />
+    <state width="1374" height="278" key="GridCell.Tab.0.right" timestamp="1584544108276">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state width="1374" height="278" key="GridCell.Tab.0.right/0.0.1418.798@0.0.1418.798" timestamp="1584544108276" />
+    <state x="246" y="0" width="914" height="798" key="SettingsEditor" timestamp="1584514659018">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="246" y="0" width="914" height="798" key="SettingsEditor/0.0.1418.798@0.0.1418.798" timestamp="1584514659018" />
+    <state x="823" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1584542129760">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="823" y="223" key="com.intellij.ide.util.TipDialog/0.0.1418.798@0.0.1418.798" timestamp="1584542129760" />
+    <state x="390" y="245" width="710" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584516320391">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="390" y="245" width="710" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1418.798@0.0.1418.798" timestamp="1584516320391" />
+    <state x="688" y="120" width="672" height="678" key="search.everywhere.popup" timestamp="1584509431123">
+      <screen x="0" y="0" width="1418" height="798" />
+    </state>
+    <state x="688" y="120" width="672" height="678" key="search.everywhere.popup/0.0.1418.798@0.0.1418.798" timestamp="1584509431123" />
+  </component>
+</project>
